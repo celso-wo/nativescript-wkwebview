@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "NativeScript WKWebView plugin for iOS.",
   "main": "wkwebview",
-  "typings": "index.d.ts",
+  "typings": "wkwebview.ios.d.ts",
   "nativescript": {
     "tns-ios": {
       "version": "3.0.1"
